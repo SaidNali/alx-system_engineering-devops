@@ -12,4 +12,7 @@ shell permissions
 11 : adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
 12 : creates a directory  with permissions 751
 13 : changes the group owner
-
+100 : changing the owner
+101 : changing the ownerb  group
+102 : changing owner of files
+103 : play the StarWars IV episode in the terminal
